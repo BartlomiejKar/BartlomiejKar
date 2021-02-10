@@ -4,7 +4,8 @@
 ### - 🌱 I’m studying **material engineering** on **AGH**.
 ### - 📫 How to reach me: Please visit me -->
 
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> https://www.linkedin.com/in/bartłomiej-karelus
+[<img align="left" height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />] [linkedin]
+
 
 - ⚡ About me:
     #### * I love football;
@@ -24,3 +25,6 @@
 <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" height="45" width="45" src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg"/>
 <img align="left" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"/>
+
+
+[linkedin]: https://www.linkedin.com/in/bartłomiej-karelus
