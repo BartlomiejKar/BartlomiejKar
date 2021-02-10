@@ -3,9 +3,10 @@
 ### - 🔭 I’m currently looking for a job as junior front-end developer / react developer / javascript developer
 ### - 🌱 I’m studying **material engineering** on **AGH**.
 ## - 📫 How to reach me: Please visit me -->
-[<img align="left" height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+ [<img align="left" height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 <br/>
 <br/>
+##
 
 - ⚡ About me:
     #### * I love football;
