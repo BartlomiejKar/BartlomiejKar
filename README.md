@@ -11,7 +11,8 @@
 - ⚡ About me:
     #### * I love football;
     #### * play games on playstation;
-    #### * spend time in the gym;
+    #### * i like to laugh;
+    #### * I like meeting new people;
 
 
 ## Languages and tools which I use:
