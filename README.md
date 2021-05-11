@@ -27,6 +27,9 @@
 <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" height="45" width="45" src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg"/>
 <img align="left" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"/>
+<img align="left" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_168209.png"/>
+<img align="left" height="45" width="45" src="https://react.semantic-ui.com/logo.png"/>
+<img align="left" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"/>
 
 
 [linkedin]: https://www.linkedin.com/in/bartłomiej-karelus
